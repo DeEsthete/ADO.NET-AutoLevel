@@ -1,0 +1,6 @@
+c:\users\павлове.corp\documents\visual studio 2017\Projects\AutoLevelAdo\AutoLevelAdo\bin\Debug\AutoLevelAdo.exe.config
+c:\users\павлове.corp\documents\visual studio 2017\Projects\AutoLevelAdo\AutoLevelAdo\bin\Debug\AutoLevelAdo.exe
+c:\users\павлове.corp\documents\visual studio 2017\Projects\AutoLevelAdo\AutoLevelAdo\bin\Debug\AutoLevelAdo.pdb
+c:\users\павлове.corp\documents\visual studio 2017\Projects\AutoLevelAdo\AutoLevelAdo\obj\Debug\AutoLevelAdo.csprojResolveAssemblyReference.cache
+c:\users\павлове.corp\documents\visual studio 2017\Projects\AutoLevelAdo\AutoLevelAdo\obj\Debug\AutoLevelAdo.exe
+c:\users\павлове.corp\documents\visual studio 2017\Projects\AutoLevelAdo\AutoLevelAdo\obj\Debug\AutoLevelAdo.pdb
